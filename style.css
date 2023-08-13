@@ -1,0 +1,20 @@
+
+
+body {
+    background-color: #eee;
+}
+
+.recordings {
+    width: 80%;
+    margin: auto;
+    padding: 5%;
+}
+
+.recording {
+    margin: 2%;
+    padding: 2%;
+    background-color: #ccc;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
